@@ -7,6 +7,9 @@
 	overflow: visible !important;
 	margin-top: 0.5em;
 }
+.liveTvContainer #guideTab .emby-scroller {
+    overflow: auto !important;
+}
 
 .layout-mobile .emby-scroller{
 	overflow-x: scroll !important;
